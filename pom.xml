@@ -15,10 +15,9 @@
     </dependency>
   </dependencies>
   <scm>
-	<connection>scm:git:git@github.com:ronisinaga/contoh2.git</connection>
-	<url>scm:git:git@github.com:ronisinaga/contoh2.git</url>
-	<developerConnection>scm:git:git@github.com:ronisinaga/contoh2.git</developerConnection>
-    <tag>working</tag>
+	<connection>scm:git:git@github.com:ronisinaga/contoh02.git</connection>
+	<url>scm:git:git@github.com:ronisinaga/contoh02.git</url>
+	<developerConnection>scm:git:git@github.com:ronisinaga/contoh02.git</developerConnection>
   </scm>
   <build>
 	<plugins>
