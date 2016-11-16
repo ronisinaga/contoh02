@@ -18,6 +18,7 @@
 	<connection>scm:git:git@github.com:ronisinaga/contoh2.git</connection>
 	<url>scm:git:git@github.com:ronisinaga/contoh2.git</url>
 	<developerConnection>scm:git:git@github.com:ronisinaga/contoh2.git</developerConnection>
+    <tag>working</tag>
   </scm>
   <build>
 	<plugins>
